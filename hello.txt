@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 heo heo h
+=======
+heo heo heo
+>>>>>>> dev
